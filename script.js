@@ -357,7 +357,7 @@ function generateTask() {
         // sound1.pause(); // Stop sound when animation finishes
         // sound1.currentTime = 0;
         popup.classList.remove("hidden"); // Show the popup
-    }, 6000);
+    }, 6200);
 
 
     // Disable the generate button after generating
